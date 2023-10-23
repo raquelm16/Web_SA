@@ -4,3 +4,5 @@
 - [X] calendário - aluno
 - [X] mais infos, modal - aluno
 - [X] perfil - aluno/prof/adm
+- [X] calendário - prof
+- [ ] turno, modal - prof
