@@ -1,4 +1,4 @@
-<h3>Checklist</h3>
+<h3>Checklist Web</h3>
 
 - [X] turmas
 - [X] calendário - aluno
@@ -9,6 +9,9 @@
 - [X] data, modal - prof
 - [X] Reservar ambientes, modal - prof 
 - [X] Cancelar ambiente, modal - prof
+
+<h3>Checklist Vite</h3>
+- [] ...
 
 <h3>Passo a passo para abrir Vite</h3>
 
